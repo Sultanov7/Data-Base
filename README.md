@@ -20,3 +20,5 @@ https://drive.google.com/drive/folders/131icANh3nXDnMhOyVIvifQBkLClxwJvX
 https://docs.google.com/document/d/19FBhNRvNgpPvfKVuvDiGMZiI6sMJQmpT-S5ZRsQDol4/edit?usp=sharing
 Диаграммы 
 https://docs.google.com/document/d/1rM8_AenmUscWydm1IPwINtOhXRDvxs4sMa4jqaT9b4Y/edit?usp=drivesdk
+Конспек
+https://docs.google.com/document/d/1NaxkXafUoFZ1cMBtme2ROMenA0PaGAdo_ZuiauNEh9E/edit?usp=drivesdk

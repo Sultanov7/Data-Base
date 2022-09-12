@@ -18,3 +18,5 @@ https://docs.google.com/document/d/14xmTw4SVj6CCOXweboVxSOHQ_5uy90omh2AvQUxrKGY/
 https://docs.google.com/document/d/10MqGBaHR7Fj8LSPyZLliOYoGcg58WmTNlX8YJ2aMPgE/edit
 https://drive.google.com/drive/folders/131icANh3nXDnMhOyVIvifQBkLClxwJvX
 https://docs.google.com/document/d/19FBhNRvNgpPvfKVuvDiGMZiI6sMJQmpT-S5ZRsQDol4/edit?usp=sharing
+Диаграммы 
+https://docs.google.com/document/d/1rM8_AenmUscWydm1IPwINtOhXRDvxs4sMa4jqaT9b4Y/edit?usp=drivesdk

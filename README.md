@@ -23,4 +23,5 @@ https://docs.google.com/document/d/1rM8_AenmUscWydm1IPwINtOhXRDvxs4sMa4jqaT9b4Y/
 Конспек
 https://docs.google.com/document/d/1NaxkXafUoFZ1cMBtme2ROMenA0PaGAdo_ZuiauNEh9E/edit?usp=drivesdk
 Реплит
-https://replit.com/
+https://replit.com/@Sultanov7?path=multiplayer
+

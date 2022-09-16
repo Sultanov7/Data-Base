@@ -29,3 +29,5 @@ https://replit.com/@Sultanov7?path=multiplayer
 https://docs.google.com/document/d/1azdxTA6YXoWv-pn92Bu4pdnjA1_Lvv7We2F-97k9iSI/edit?usp=drivesdk
 
 https://docs.google.com/document/d/1jA4Ykfb3755IkujbNyMPk4lYStOoTJAQwDt1Re9DjZo/edit?usp=sharing
+Дз таблица 
+https://docs.google.com/document/d/1kzHEtK0Hn6cD_u1lnSgd3xwpvb25RH10wgXoBcKqSBM/edit?usp=sharing

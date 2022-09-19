@@ -36,3 +36,5 @@ https://docs.google.com/document/d/1ClC71M0E-cMoI5Hx4Sy1Ucd7Ut-Oyn3b5fPwXZOkmZA/
 [Ссылка]
 Новый документ
 https://docs.google.com/document/d/1ClC71M0E-cMoI5Hx4Sy1Ucd7Ut-Oyn3b5fPwXZOkmZA/edit
+Exel таблица 
+https://docs.google.com/spreadsheets/d/1tdUrE9uQBHtkepruQtyfvA2vOoG3PpJJ-kDPAeN_vXA/edit?usp=sharing

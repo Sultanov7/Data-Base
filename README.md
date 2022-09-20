@@ -38,3 +38,5 @@ https://docs.google.com/document/d/1ClC71M0E-cMoI5Hx4Sy1Ucd7Ut-Oyn3b5fPwXZOkmZA/
 https://docs.google.com/document/d/1ClC71M0E-cMoI5Hx4Sy1Ucd7Ut-Oyn3b5fPwXZOkmZA/edit
 Exel таблица 
 https://docs.google.com/spreadsheets/d/1tdUrE9uQBHtkepruQtyfvA2vOoG3PpJJ-kDPAeN_vXA/edit?usp=sharing
+Самостоятельная работа
+https://docs.google.com/document/d/1zoZDFL_pq-5KnasWK_qp5W8VNM3Qm5OZ7VSF-x5YHYQ/edit?usp=drivesdk

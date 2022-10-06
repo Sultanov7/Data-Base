@@ -42,3 +42,7 @@ https://docs.google.com/spreadsheets/d/1tdUrE9uQBHtkepruQtyfvA2vOoG3PpJJ-kDPAeN_
 https://docs.google.com/document/d/1zoZDFL_pq-5KnasWK_qp5W8VNM3Qm5OZ7VSF-x5YHYQ/edit?usp=drivesdk
 Эр диограмма
 https://docs.google.com/document/d/15hhOja6RqPlPs3US3wLdDQlUhl55Hq4mVhbJS4m1BFA/edit?usp=sharing
+
+https://docs.google.com/document/d/1mHngIU-qKyLXkVU-oP2n0NsQpqzBbATEg9JPkNGF_tg/edit?usp=sharing
+Stepik
+https://docs.google.com/document/d/1ttYm5W4IzKLI5hDeKwSHXuTpGU1UqPNaowUNlQL7LDU/edit?usp=sharing

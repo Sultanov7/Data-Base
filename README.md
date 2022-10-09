@@ -46,3 +46,7 @@ https://docs.google.com/document/d/15hhOja6RqPlPs3US3wLdDQlUhl55Hq4mVhbJS4m1BFA/
 https://docs.google.com/document/d/1mHngIU-qKyLXkVU-oP2n0NsQpqzBbATEg9JPkNGF_tg/edit?usp=sharing
 Stepik
 https://docs.google.com/document/d/1ttYm5W4IzKLI5hDeKwSHXuTpGU1UqPNaowUNlQL7LDU/edit?usp=sharing
+Практическая работа видео создание БД 
+https://drive.google.com/drive/folders/1JI-3YSs8FkhRwORLoOMC5dNjVt1D5cC0?usp=sharing
+Скрины Stepik 
+https://docs.google.com/document/d/18PLVE8YzxKOQLVlb37juCRQmCvEPVjaqZjCYY8VwxHU/edit?usp=drivesdk

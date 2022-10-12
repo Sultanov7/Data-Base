@@ -50,3 +50,8 @@ https://docs.google.com/document/d/1ttYm5W4IzKLI5hDeKwSHXuTpGU1UqPNaowUNlQL7LDU/
 https://drive.google.com/drive/folders/1JI-3YSs8FkhRwORLoOMC5dNjVt1D5cC0?usp=sharing
 Скрины Stepik 
 https://docs.google.com/document/d/18PLVE8YzxKOQLVlb37juCRQmCvEPVjaqZjCYY8VwxHU/edit?usp=drivesdk
+Код для видео
+https://docs.google.com/document/d/1INSzDb8pr5zm-EXc9pKRgwD9QDenbYnzroATTu12YQA/edit?usp=sharing
+
+Видео бд shop
+https://drive.google.com/file/d/1r7m_2cwpk6t0QOjurrVU75S5fLYIL9DD/view?usp=sharing

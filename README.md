@@ -27,3 +27,5 @@ https://docs.google.com/document/d/1ttYm5W4IzKLI5hDeKwSHXuTpGU1UqPNaowUNlQL7LDU/
 https://docs.google.com/document/d/1INSzDb8pr5zm-EXc9pKRgwD9QDenbYnzroATTu12YQA/edit?usp=sharing код для видео
 
 https://drive.google.com/file/d/1r7m_2cwpk6t0QOjurrVU75S5fLYIL9DD/view?usp=sharing видео бд shop
+
+https://docs.google.com/document/d/1Ppsc_BPcxNgJbxwIW_hrj56qMMCt18jrtB-d83ZWlyI/edit?usp=sharing- конспекты за 20.09.22 28.09.22 

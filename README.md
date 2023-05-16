@@ -1,4 +1,5 @@
 ×# Data-Base
+https://linksharing.samsungcloud.com/wy5Bjresq1uK
 
 https://docs.google.com/document/d/1mw0S2Eqt6vG6st4PPFdIj8EhtMPJMbzUqZWu8Ah6S9U/editконспект бд
 
